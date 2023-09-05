@@ -1,12 +1,11 @@
 <ul>
-  <li>Meetup: <a href="https://www.meetup.com/ruby-montevideo/" target="_blank">Montevideo</a></li>
+  <li>Meetup: <a href="https://www.meetup.com/es/rubyba/" target="_blank">Buenos Aires</a></li>
   <li>
-    Slack: <a href="https://owu.slack.com/archives/C52L2AK8W" target="_blank">Open Web Uruguay - Ruby</a> |
-    <a href="https://owu.uy">Unirse a OWU</a>
+    Slack: <a href="https://join.slack.com/t/rubysur/shared_invite/zt-22ukw3n1t-w8k65wRscQO9t_GuHMh5WA" target="_blank">Rubysur</a>
   </li>
 
-  <li>Sponsors: <a href="/sponsors">List</a> | <a href="/sponsorship_details">Detalles de sponsoreo</a></li>
-  <li>Github: <a href="https://github.com/rubyuy/ruby.uy" target="_blank">Repo</a></li>
+  <li>Sponsors: <a href="/sponsors">Listado</a> | <a href="/sponsorship_details">Detalles de sponsoreo</a></li>
+  <li>Github: <a href="https://github.com/cperezabo/rubysur" target="_blank">Repo</a></li>
 </ul>
 
 ## Meetups

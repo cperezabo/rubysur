@@ -5,7 +5,7 @@ title: Detalles de sponsoreo
 <h2>Detalles de sponsoreo</h2>
 <p>Se considera un sponsor a las empresas/personas que apoyan a la comunidad cumpliendo las obligaciones detalladas debajo.</p>
 <p>Para mas detalles acerca de ser Host de una meetup ver <a href="/meetup_hosting_details">los detalles de hosting</a>.</p>
-<p>Para ser sponsor, contactarse <a href="mailto:org@ruby.uy">al mail de la organización</a>.</p>
+<p>Para ser sponsor, contactarse <a href="mailto:org@rubysur">al mail de la organización</a>.</p>
 
 <h3>Beneficios</h3>
 <ul>

@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ruby UY
-email: admin@ruby.uy
+title: Rubysur
+email: admin@rubysur
 description: >- # this means to ignore newlines until "baseurl:"
-  Sitio de la comunidad Ruby en Uruguay.
+  Sitio de la comunidad Ruby en Argentina.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://ruby.uy # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rubysur # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  rubyuy
+github_username:  rubysur
 
 # Build settings
 plugins:

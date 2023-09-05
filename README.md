@@ -1,8 +1,8 @@
-# Ruby.uy
+# Rubysur
 
 ![](images/logo.svg)
 
-Sitio de la comunidad Ruby en Uruguay
+Sitio de la comunidad Ruby en Argentina
 
 
 ## Local
