@@ -1,3 +1,8 @@
+huerta-coworking:
+  name: Huerta Coworking
+  url: https://huertacoworking.com
+  # image: /images/sponsors/huerta-coworking.svg
+
 le-wagon:
   name: Le Wagon
   url: https://www.lewagon.com
@@ -8,3 +13,7 @@ rootstrap:
   url: https://www.rootstrap.com
   image: /images/sponsors/rootstrap.svg
 
+wolox:
+  name: Wolox
+  url: http://www.wolox.co
+  # image: /images/sponsors/wolox.svg
